@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NataliDob
+- 👋 Hi, I’m @Natalia
 - 👀 I’m interested in start my new career 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
